@@ -1,0 +1,2 @@
+# Gmi
+Global Mood Index
